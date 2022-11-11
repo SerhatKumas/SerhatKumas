@@ -11,7 +11,7 @@
 
 ### 👨‍💻 &nbsp;About Me : </br>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 - 🌱 I’m currently learning **backend development**
 
