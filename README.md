@@ -41,7 +41,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 🔥 &nbsp; My Stats : </br>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serhatkumas&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SerhatKumas&theme=highcontrast)](https://git.io/streak-stats)
   
 ![Serhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhatkumas&show_icons=true&theme=vision-friendly-dark)
 
